@@ -2,7 +2,7 @@
   "name": "chess",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sanketBarapatre/test-react",
+  "homepage": "https://github.com/sanketBarapatre/test-react/build",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
